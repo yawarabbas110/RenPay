@@ -1,1 +1,1 @@
-# RenPay
+# RentPay
